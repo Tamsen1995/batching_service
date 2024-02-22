@@ -1,0 +1,10 @@
+# Dependency directories
+node_modules/
+
+# TypeScript compiled directory
+dist/
+
+# IDE - VSCode
+.vscode/
+*.code-workspace
+
